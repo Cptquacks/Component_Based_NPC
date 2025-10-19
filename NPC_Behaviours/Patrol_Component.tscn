@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://1f45ym3srgab"]
+
+[ext_resource type="Script" uid="uid://doya3bf577svt" path="res://Prefabs/NPC_Behaviours/Scripts/Patrol_Script.gd" id="1_8j47s"]
+
+[node name="Patrol_Component" type="Node"]
+script = ExtResource("1_8j47s")

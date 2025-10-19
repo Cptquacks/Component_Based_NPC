@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bxe0qwrf7vpxf"]
+
+[ext_resource type="Script" uid="uid://hnjiig7qj75n" path="res://Prefabs/NPC_Behaviours/Scripts/FollowPath_Component.gd" id="1_lknwh"]
+
+[node name="FollowPath_Component" type="Node"]
+script = ExtResource("1_lknwh")

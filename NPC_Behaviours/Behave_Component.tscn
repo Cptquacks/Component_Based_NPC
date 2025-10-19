@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cf0v2wquull48"]
+
+[ext_resource type="Script" uid="uid://cft2u4m64qjgl" path="res://Prefabs/NPC_Behaviours/Scripts/Behave_Script.gd" id="1_5qhk0"]
+
+[node name="Behave_Component" type="Node"]
+script = ExtResource("1_5qhk0")
